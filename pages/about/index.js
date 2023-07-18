@@ -4,4 +4,4 @@ function AboutPage() {
     </div>
 }
 
-export default AboutPage;
+export default AboutPage; // Which serves at http://localhost:3000/about

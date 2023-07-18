@@ -5,4 +5,4 @@ function Homepage() {
         </div>
     );
 }
-export default Homepage;
+export default Homepage;  // Which serves at http://localhost:3000
